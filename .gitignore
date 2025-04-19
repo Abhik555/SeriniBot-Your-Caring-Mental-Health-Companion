@@ -1,0 +1,3 @@
+# Ignore .gguf files
+*.gguf
+*.ckpt
